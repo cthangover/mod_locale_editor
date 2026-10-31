@@ -1,0 +1,8 @@
+{
+  "name": "Translations Window Test",
+  "description": "GUI test of the translations window in rpg_plus: the window reads the locale atlas and lists the probe key, which this suite declares in English and Russian only, as missing in Korean; the test picks the Korean language and the row, types the translation, saves; the suite's locale file gets the line, the atlas lists one gap less, and the game shows the text in Korean. The Korean file the test created is removed and the game's language is restored. Activated by --itest=locale_window with --game=rpg_plus --new.",
+  "sources": [
+    "src/*.cs"
+  ],
+  "depends": []
+}
