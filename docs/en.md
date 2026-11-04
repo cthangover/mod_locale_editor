@@ -40,7 +40,7 @@ missing translation is a gap, never a broken build: the game shows the language 
 
 ## Good to know
 
-- The window works on the mods of the game it was opened in: a mod that is not installed is not in the list.
+- The scanner includes every discovered installed mod and collection package, including mods outside the running game. Loaded mods are scanned first in load order; read-only sources can be inspected but not saved.
 - A new mod made with **New mod** (mod manager) starts with its title in English and in the player's language;
   the other languages show up here as missing titles.
 - Texts that are already declared are not offered. To change a translation, edit the file, or use the editor of

@@ -41,7 +41,7 @@ que tiene el texto.
 
 ## Conviene saber
 
-- La ventana trabaja con los mods del juego en el que se abrió: un mod que no está instalado no aparece en la lista.
+- El escáner incluye todos los mods instalados descubiertos y paquetes de colecciones, también fuera del juego actual. Primero recorre los cargados en su orden; las fuentes de solo lectura se pueden consultar, pero no guardar.
 - Un mod nuevo creado con **Nuevo mod** (gestor de mods) recibe su título en inglés y en el idioma del jugador; los demás
   idiomas aparecen aquí como títulos que faltan.
 - Los textos ya declarados no se ofrecen. Para cambiar una traducción, edita el archivo o usa el editor del objeto o del

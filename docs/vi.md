@@ -31,6 +31,6 @@ Cửa sổ không tự quyết định gì: nó chỉ hiện những gì bộ at
 
 ## Nên biết
 
-- Cửa sổ làm việc với các mod của trò chơi đang mở nó: mod chưa cài sẽ không có trong danh sách.
+- Bộ quét gồm mọi mod đã cài được phát hiện và gói bộ sưu tập, kể cả ngoài game đang chạy. Mod đã nạp được quét trước theo thứ tự nạp; nguồn chỉ đọc có thể xem nhưng không lưu.
 - Mod mới tạo bằng **Mod mới** (trình quản lý mod) có tiêu đề bằng tiếng Anh và ngôn ngữ của người chơi; các ngôn ngữ khác sẽ hiện ở đây như tiêu đề còn thiếu.
 - Văn bản đã khai báo không được đưa ra. Để đổi bản dịch, hãy sửa tệp, hoặc dùng trình sửa vật phẩm hay nhân vật (tên của chúng được nhập theo từng ngôn ngữ trong biểu mẫu của chúng).
