@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "ct",
   "description": "A translations window: lists every text a language lacks (from the locale atlas), and writes the translation into the locale file of the mod that owns the key, so the game shows it at once.",
-  "category": "tools, editor",
+  "categories": ["tools", "editor"],
   "sources": [
     "src/**/*.cs"
   ],
