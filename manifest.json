@@ -1,7 +1,7 @@
 {
   "id": "locale_editor",
   "name": "Locale Editor",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "ct",
   "description": "A translations window: lists every text a language lacks (from the locale atlas), and writes the translation into the locale file of the mod that owns the key, so the game shows it at once.",
   "category": "tools, editor",
@@ -12,9 +12,9 @@
     "tests/*.cs"
   ],
   "depends": [
-    "tools_base>=1",
-    "locale_atlas>=0.1",
-    "ui_base>=1"
+    "tools_base>=0.1.0",
+    "locale_atlas>=0.1.0",
+    "ui_base>=0.1.0"
   ],
   "test_suites": [
     {
